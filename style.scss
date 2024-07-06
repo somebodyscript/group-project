@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 @import 'adaptive';
 
-.content {
+.projects {
     font-family: Arial, sans-serif;
     display: flex;
     justify-content: center;
@@ -19,8 +19,6 @@
             opacity: 1;
         }
     }
-}
-.projects {
     .projects__container {
         text-align: center;
         padding: 20px;
